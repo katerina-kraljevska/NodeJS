@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Spaghetti Carbonara",
+    "description": "A classic Italian pasta dish with creamy sauce and crispy pancetta.",
+    "ingredients": [
+      "Spaghetti",
+      "Eggs",
+      "Pancetta",
+      "Parmesan cheese",
+      "Black pepper",
+      "Salt"
+    ],
+    "instructions": [
+      "Boil the spaghetti until al dente.",
+      "Fry the pancetta until crispy.",
+      "Whisk eggs and Parmesan cheese together.",
+      "Mix everything together with the spaghetti.",
+      "Season with black pepper and serve."
+    ],
+    "cookingTime": 25,
+    "difficulty": "medium",
+    "isVegetarian": false,
+    "category": "dinner"
+  },
+  {
+    "title": "Vegetable Stir-Fry",
+    "description": "A quick and healthy stir-fry with fresh vegetables and soy sauce.",
+    "ingredients": [
+      "Bell peppers",
+      "Broccoli",
+      "Carrots",
+      "Garlic",
+      "Soy sauce",
+      "Sesame oil"
+    ],
+    "instructions": [
+      "Heat sesame oil in a pan.",
+      "Add garlic and sauté until fragrant.",
+      "Add vegetables and stir-fry for 5-7 minutes.",
+      "Pour in soy sauce and mix well.",
+      "Serve hot with rice or noodles."
+    ],
+    "cookingTime": 15,
+    "difficulty": "easy",
+    "isVegetarian": true,
+    "category": "lunch"
+  },
+  {
+    "title": "Chocolate Brownies",
+    "description": "Rich and fudgy chocolate brownies, perfect for dessert lovers.",
+    "ingredients": [
+      "Dark chocolate",
+      "Butter",
+      "Sugar",
+      "Eggs",
+      "Flour",
+      "Cocoa powder"
+    ],
+    "instructions": [
+      "Melt chocolate and butter together.",
+      "Mix in sugar and eggs until smooth.",
+      "Stir in flour and cocoa powder.",
+      "Pour batter into a baking dish.",
+      "Bake at 180°C for 25 minutes."
+    ],
+    "cookingTime": 30,
+    "difficulty": "medium",
+    "isVegetarian": true,
+    "category": "dessert"
+  }
+]
